@@ -60,3 +60,11 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Custom files
+#
+*.zip
+*.pickle
+*.tar.gz
+udacity/notMNIST_small/*
+udacity/notMNIST_large/*
