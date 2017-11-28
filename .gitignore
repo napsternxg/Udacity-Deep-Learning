@@ -68,3 +68,4 @@ target/
 *.tar.gz
 udacity/notMNIST_small/*
 udacity/notMNIST_large/*
+udacity/MNIST_data/*
